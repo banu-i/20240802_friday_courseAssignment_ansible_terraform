@@ -1,2 +1,2 @@
-# 20240802_friday_courseAssignment_ansible_terraform
+# 20240801_courseAssignment_terraform
  
